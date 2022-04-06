@@ -1,7 +1,8 @@
 export const environment = {
   production: true,
   cognito: {
-    userPoolId: 'us-east-2_pptCj2gqV',
-    userPoolWebClientId: '1452opnjll0ldmocs201b1oimu',
+    userPoolId: 'ap-south-1_F9nlKUaJV',
+    userPoolWebClientId: '7ssripghg9lmbljvmcmo2qnvkf',
+    authenticationFlowType:'CUSTOM_AUTH'
   },
 };
